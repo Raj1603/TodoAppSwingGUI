@@ -28,7 +28,7 @@ This version is minimal and runs in a single `TodoApp.java` file.
 
 ```bash
 git clone https://github.com/Raj1603/TodoAppSwingGUI.git
-cd TodoAppSwing
+
 ```
 ### 2. Compile the Java file
 ```bash
